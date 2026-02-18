@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This gem is only usable for Spree versions older than 5.0 (eg, Spree 3 and 4).
+> 
+> For Spree 5, you do not need this gem, as sitemap generation is part of [Spree Storefront](https://github.com/spree/spree-rails-storefront). Also the [Next.js Starter](https://github.com/spree/nextjs-starter-spree) includes sitemaps as well.
+
 # Spree Sitemap
 
 [![Build Status](https://travis-ci.org/spree-contrib/spree_sitemap.svg?branch=master)](https://travis-ci.org/spree-contrib/spree_sitemap)
